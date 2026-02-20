@@ -15,7 +15,7 @@
             <td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรกกกกกกกกกกกกกกก</li>
 				<li><a href="room.php">ห้องพัก&ราคา</li>
-				<li><a herf="guest.php">สมุดเยี่ยม</li>
+				<li><a herf="guest.php">สมุดเยี่ยมมมมมมมมมมมมมมมม</li>
 				<li><a href="contact.php">ติดต่ออออออออออออออ</li>
 				</ul><p>
 				<?php include "login_form.php";?>
